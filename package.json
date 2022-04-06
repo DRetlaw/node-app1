@@ -1,0 +1,24 @@
+{
+  "name": "myapp1",
+  "version": "1.0.0",
+  "description": "test app 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRetlaw/node-app1.git"
+  },
+  "keywords": [
+    "node",
+    "test",
+    "app"
+  ],
+  "author": "Walter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DRetlaw/node-app1/issues"
+  },
+  "homepage": "https://github.com/DRetlaw/node-app1#readme"
+}
